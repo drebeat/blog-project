@@ -28,7 +28,7 @@ export default function Navbar() {
                   signOut(auth);
                 }}
               >
-                Logout
+                Logout . . .
               </button>
             </>
           )}
