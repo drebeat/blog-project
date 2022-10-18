@@ -14,7 +14,7 @@ export default function Navbar() {
           <img src={LOGO} width={30} height={30} alt="logo" className="ms-5" />
         </div>
         <Link className="nav-link" to="/">
-          Home{" "}
+          Home
         </Link>
         <div>
           {user && (
